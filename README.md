@@ -1,7 +1,8 @@
 # Requirements
-Symfony CLI -> https://symfony.com/download
-Composer -> https://getcomposer.org/
-Node v20.16.0
+
+- Symfony CLI -> https://symfony.com/download
+- Composer -> https://getcomposer.org/
+- Node v20.16.0
 
 # API Symfony 7.2
 ```
